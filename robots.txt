@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Wachoox.github.io/reference-1d787t/sitemap.xml
